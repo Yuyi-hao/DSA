@@ -1,0 +1,20 @@
+# <center>Linear Array</center> 
+
+**Question list**
+1.  [Program to input elements into array and print](/pr1.c) 
+2.  [program to count the number of negative and positive numbers in a array](/pr2.c)
+3.  [convert decimal to binary ](/pr3.c)
+4.  [Generate n numbers of term of Fibonacci series ](/pr4.c)
+5.  [Insert an element in begining ](/pr5.c)
+6.  [Insert an element at the end ](/pr6.c)
+7.  [Insert an element after a given element](/pr7.c)
+8.  [Deletion of an element from End ](/pr8.c)
+9.  [Deletion from beginning ](/pr9.c)
+10. [Deletion of a given element](/pr10.c)
+11. [concatenation](/pr11.c)
+12. [Merge to sorted list into one ](/pr12.c)
+13. [To invert the element of an array and stored invert element in the same array without using another array ](/pr13.c)
+14. [Traverse array in reverse order ](/pr14.c)
+15. [update an element in array ](/pr15.c)
+16. [Write a program to find out the maximum and second maximum element of an array of n elements](/pr16.c)
+17. [Write a program to interchange the odd and even position element of an array of n element](/pr17.c)
