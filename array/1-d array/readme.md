@@ -1,7 +1,7 @@
 # <center>Linear Array</center> 
 
 **Question list**
-1.  [Program to input elements into array and print](/pr1.c) 
+1.  [Program to input elements into array and print](main/array/1-d%20array/pr1.c) 
 2.  [program to count the number of negative and positive numbers in a array](/pr2.c)
 3.  [convert decimal to binary ](/pr3.c)
 4.  [Generate n numbers of term of Fibonacci series ](/pr4.c)
