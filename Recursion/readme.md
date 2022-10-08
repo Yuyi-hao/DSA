@@ -1,4 +1,4 @@
-#**<center>Recursion</center>**
+# **<center>Recursion</center>**
 
 1. [Calculate factorial of an integer using recursion.]()
 2. [Program to print and array in reverse order using recursion.]()
