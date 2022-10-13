@@ -85,7 +85,7 @@ int main(){
     char s1[] = "mom";
     char s2[] = "jane";
     printf("The string %s is palindrome : %s\n", s1, isPalindrome(s1, 3));
-    printf("The string %s is palindrome : %s\n", s2, isPalindrome(s2, 3));
+    printf("The string %s is palindrome : %s\n", s2, isPalindrome(s2, 4));
     return 0;
 }
 ```
