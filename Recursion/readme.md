@@ -114,3 +114,4 @@ The string jane is palindrome : False
 7. [Write a recursive algorithm to implement the a function also write a program.](https://github.com/Yuyi-hao/DSA/blob/main/Recursion/q7.c)
 8. [Find the factorial of any number with the use of tail recursion.](https://github.com/Yuyi-hao/DSA/blob/main/Recursion/q8.c)
 9. [Tower of hanoi](https://github.com/Yuyi-hao/DSA/blob/main/Recursion/q9.c)
+10. [Check if a given string is palindrome or not using recursion].(https://github.com/Yuyi-hao/DSA/blob/main/Recursion/q10.c)
